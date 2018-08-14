@@ -1,6 +1,6 @@
-token=NDY4MjE0NDA0MzcxMDU0NjIz.Di18rA.sMHM8DTKjRqt1LG9TCBv_EMhOxE
+token=NDc4NzIxMTE5MDA4ODQ5OTMw.DlO2TQ.J6720ma2qqE4IMC-RxlNFS2ZPE0
 owner=201460488037466112
-prefix=!!
-game=my.shoemakk.com/bot
+prefix=!
+game=!help | IronHand Joky
 stayinchannel=true
 songinstatus=true
